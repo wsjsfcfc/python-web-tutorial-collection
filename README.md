@@ -1,6 +1,6 @@
 # django学习资料总结
+ * [大纲](#大纲)
  * [基础](#)
-      * [0 python web guide](#0-python web guide)
       * [1 python基础](#1-python基础)
       * [2 web框架](#2-django基础+部署)
       * [3 Rest概念](#3-Rest概念)
@@ -11,9 +11,9 @@
       * [8 数据库](#8-数据库)
       * [9 安全](#9-安全)
       * [10 消息队列](#10-消息队列)
-      * [11 多线程/异步/并发etc](#11-多线程/并发/异步etc)
+      * [11 多线程/异步/并发etc](#11-多线程etc)
       
-## 0 python web guide
+## 大纲
 * [python web guide](https://python-web-guide.readthedocs.io/zh/latest/base/basics.html)
 
 ## 1 python基础
@@ -55,8 +55,10 @@
 * [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/what.html)
 
 ## 8 数据库
-* []
-* []
+* [mysql](#)
+* [redis](#)
+* [mongo](#)
+* [memcached](#)
 
 ## 9 安全
 * [加密暗号]()
@@ -68,7 +70,7 @@
 * [python消息队列Queue](https://blog.csdn.net/fonyer/article/details/79019118)
 
       
-## 11 多线程/并发/异步etc
+## 11 多线程etc
 * [django利用多线程增加异步任务](https://blog.csdn.net/orangleliu/article/details/41961295)
 
  
