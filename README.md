@@ -1,22 +1,33 @@
 # django学习资料总结
  * [基础](#)
+      * [0 python web guide](#0-python web guide)
       * [1 python基础](#1-python基础)
-      * [2 django基础+部署](#2-django基础+部署)
+      * [2 web框架](#2-django基础+部署)
       * [3 Rest概念](#3-Rest概念)
       * [4 vim ide配置](#4-vimide配置)
       * [5 git相关](#5-git相关)
       * [6 项目实战](#6-项目实战)
       * [7 Docker教程](#7-Docker教程)
-      * ......待补充修改
+      * [8 数据库](#8-数据库)
+      * [9 安全](#9-安全)
+      * [10 消息队列](#10-消息队列)
+      * [11 多线程/异步/并发etc](#11-多线程/并发/异步etc)
       
-##  1 python基础
+## 0 python web guide
+* [python web guide](https://python-web-guide.readthedocs.io/zh/latest/base/basics.html)
+
+## 1 python基础
 * [python基础语法总结](http://www.cnblogs.com/feeland/p/4502931.html)
 * [python leetcode题解](https://www.hrwhisper.me/leetcode-algorithm-solution/)
+* [python进阶](https://eastlakeside.gitbooks.io/interpy-zh/content/)
+* [python参考手册第四版](http://bestcbooks.com/B004H0784U/)
+* [廖老师教程(简易orm+web框架实现)]()
 
-## 2 django基础+部署
+## 2 web框架
 * [django企业开发实战](http://django-practice-book.com/) 
 * [django官方教程](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
 * [django自强学堂基础教程](https://code.ziqiangxuetang.com/django/django-tutorial.html)
+* [flask源码解析](http://cizixs.com/2017/01/12/flask-insight-routing)
 
 ## 3 Rest概念
 * [跟着github学习RESTful HTTP API设计](http://cizixs.com/2016/12/12/restful-api-design-guide)
@@ -43,4 +54,21 @@
 ## 7 Docker教程
 * [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/what.html)
 
+## 8 数据库
+* []
+* []
 
+## 9 安全
+* [加密暗号]()
+* [xss]()
+* [xsrf]()
+* [其他]()
+
+## 10 消息队列
+* [python消息队列Queue](https://blog.csdn.net/fonyer/article/details/79019118)
+
+      
+## 11 多线程/并发/异步etc
+* [django利用多线程增加异步任务](https://blog.csdn.net/orangleliu/article/details/41961295)
+
+ 
