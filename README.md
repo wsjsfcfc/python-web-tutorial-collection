@@ -12,7 +12,8 @@
       * [9 安全](#9-安全)
       * [10 消息队列](#10-消息队列)
       * [11 多线程/异步/并发etc](#11-多线程etc)
-      
+  * [其他](#)
+      * [兼容python2和python3](#python兼容)      
 ## 大纲
 * [python web guide](https://python-web-guide.readthedocs.io/zh/latest/base/basics.html)
 
@@ -21,7 +22,8 @@
 * [python leetcode题解](https://www.hrwhisper.me/leetcode-algorithm-solution/)
 * [python进阶](https://eastlakeside.gitbooks.io/interpy-zh/content/)
 * [python参考手册第四版](http://bestcbooks.com/B004H0784U/)
-* [廖老师教程(简易orm+web框架实现)]()
+* [廖老师教程(简易orm+web框架实现)](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014323389656575142d0bcfeec434e9639a80d3684a7da000)
+* [排序基础实现java版](http://blog.51cto.com/flyingcat2013/category3.html)
 
 ## 2 web框架
 * [django企业开发实战](http://django-practice-book.com/) 
@@ -73,4 +75,5 @@
 ## 11 多线程etc
 * [django利用多线程增加异步任务](https://blog.csdn.net/orangleliu/article/details/41961295)
 
- 
+## python兼容
+* [兼容python2和python3指南](https://docs.python.org/3/howto/pyporting.html)
