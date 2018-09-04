@@ -12,6 +12,7 @@
       * [9 安全](#9-安全)
       * [10 消息队列](#10-消息队列)
       * [11 多线程/异步/并发etc](#11-多线程etc)
+      * [12 前端相关](#12-前端)
   * [其他](#)
       * [兼容python2和python3](#python兼容)      
 ## 大纲
@@ -24,13 +25,14 @@
 * [python参考手册第四版](http://bestcbooks.com/B004H0784U/)
 * [廖老师教程(简易orm+web框架实现)](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014323389656575142d0bcfeec434e9639a80d3684a7da000)
 * [排序基础实现java版](http://blog.51cto.com/flyingcat2013/category3.html)
+* [红黑树](https://blog.csdn.net/net_wolf_007/article/details/79706498)
 
 ## 2 web框架
 * [django企业开发实战](http://django-practice-book.com/) 
 * [django官方教程](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
 * [django自强学堂基础教程](https://code.ziqiangxuetang.com/django/django-tutorial.html)
 * [flask源码解析](http://cizixs.com/2017/01/12/flask-insight-routing)
-
+* [django mtv](https://blog.csdn.net/YangHeng816/article/details/52213983)
 ## 3 Rest概念
 * [跟着github学习RESTful HTTP API设计](http://cizixs.com/2016/12/12/restful-api-design-guide)
 * [如何获取一杯咖啡 -- 星巴克REST案例分析](http://www.infoq.com/cn/articles/webber-rest-workflow/)
@@ -57,7 +59,8 @@
 * [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/what.html)
 
 ## 8 数据库
-* [mysql](#)
+* [数据库基础](https://zhuanlan.zhihu.com/p/23713529)
+* [mysql索引](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [redis](#)
 * [mongo](#)
 * [memcached](#)
@@ -74,6 +77,9 @@
       
 ## 11 多线程etc
 * [django利用多线程增加异步任务](https://blog.csdn.net/orangleliu/article/details/41961295)
+
+## 12 前端
+* [vue 路由](http://www.bslxx.com/a/vue/mianshiti/2017/1108/1417.html)
 
 ## python兼容
 * [兼容python2和python3指南](https://docs.python.org/3/howto/pyporting.html)
