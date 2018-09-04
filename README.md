@@ -33,12 +33,14 @@
 * [django自强学堂基础教程](https://code.ziqiangxuetang.com/django/django-tutorial.html)
 * [flask源码解析](http://cizixs.com/2017/01/12/flask-insight-routing)
 * [django mtv](https://blog.csdn.net/YangHeng816/article/details/52213983)
+
 ## 3 Rest概念
 * [跟着github学习RESTful HTTP API设计](http://cizixs.com/2016/12/12/restful-api-design-guide)
 * [如何获取一杯咖啡 -- 星巴克REST案例分析](http://www.infoq.com/cn/articles/webber-rest-workflow/)
 * [什么才是真正的REST架构](https://jimmylv.gitbooks.io/learning-microservices/content/best-practice/what_really_REST_is.html)
 * [理解本真的REST架构风格](http://blog.sae.sina.com.cn/archives/370)
 * [超媒体驱动的Web API](https://cnbailian.github.io/2017/10/hypertext-driven/)
+* [Django PUT DELETE](https://www.jianshu.com/p/ae7769a790a4)
 
 ## 4 vimide配置
 * [配置vim的django开发IDE](https://realpython.com/vim-and-python-a-match-made-in-heaven/#lets-make-an-ide)
