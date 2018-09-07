@@ -13,6 +13,7 @@
       * [10 消息队列](#10-消息队列)
       * [11 多线程/异步/并发etc](#11-多线程etc)
       * [12 前端相关](#12-前端)
+      * [13 面试](#13-面试)
   * [其他](#)
       * [兼容python2和python3](#python兼容)      
 ## 大纲
@@ -33,6 +34,7 @@
 * [django自强学堂基础教程](https://code.ziqiangxuetang.com/django/django-tutorial.html)
 * [flask源码解析](http://cizixs.com/2017/01/12/flask-insight-routing)
 * [django mtv](https://blog.csdn.net/YangHeng816/article/details/52213983)
+* [django使用注意点](http://blog.51cto.com/ant595/1609225)
 
 ## 3 Rest概念
 * [跟着github学习RESTful HTTP API设计](http://cizixs.com/2016/12/12/restful-api-design-guide)
@@ -63,6 +65,7 @@
 ## 8 数据库
 * [数据库基础](https://zhuanlan.zhihu.com/p/23713529)
 * [mysql索引](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+* [mysql索引原理&慢查询优化](https://tech.meituan.com/mysql_index.html)
 * [redis](#)
 * [mongo](#)
 * [memcached](#)
@@ -82,6 +85,12 @@
 
 ## 12 前端
 * [vue 路由](http://www.bslxx.com/a/vue/mianshiti/2017/1108/1417.html)
+
+## 13 面试
+* [python面试](https://github.com/taizilongxu/interview_python)
+* [面试总结](https://blog.csdn.net/AyoCross/article/details/56509840)
+* [面试总结解析](https://blog.csdn.net/hpwzjz/article/details/81412988)
+* [笔试](https://blog.csdn.net/CaoMei_HuaCha/article/details/81047777)
 
 ## python兼容
 * [兼容python2和python3指南](https://docs.python.org/3/howto/pyporting.html)
