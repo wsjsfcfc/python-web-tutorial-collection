@@ -66,7 +66,7 @@
 * [数据库基础](https://zhuanlan.zhihu.com/p/23713529)
 * [mysql索引](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [mysql索引原理&慢查询优化](https://tech.meituan.com/mysql_index.html)
-* [redis安装配置(centos)](#https://www.linode.com/docs/databases/redis/install-and-configure-redis-on-centos-7/)
+* [redis安装配置centos](#https://www.linode.com/docs/databases/redis/install-and-configure-redis-on-centos-7/)
 * [mongo](#)
 * [memcached](#)
 
