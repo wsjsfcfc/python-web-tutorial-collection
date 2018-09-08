@@ -35,6 +35,7 @@
 * [flask源码解析](http://cizixs.com/2017/01/12/flask-insight-routing)
 * [django mtv](https://blog.csdn.net/YangHeng816/article/details/52213983)
 * [django使用注意点](http://blog.51cto.com/ant595/1609225)
+* [利用restframework处理get/post以外的请求](https://www.jianshu.com/p/e26eec80af08)
 
 ## 3 Rest概念
 * [跟着github学习RESTful HTTP API设计](http://cizixs.com/2016/12/12/restful-api-design-guide)
@@ -57,7 +58,6 @@
 ## 6 项目实战
 * [自强学堂CMS](https://code.ziqiangxuetang.com/django/django-cms-develop.html)
 * [自强学堂BVDN( Bootstrap + Vue + django + nginx )构建网站](https://code.ziqiangxuetang.com/django/bvdn-1.html)
-* [全栈项目YaDjangoBlog](https://zhuanlan.zhihu.com/p/33903527)
 
 ## 7 Docker教程
 * [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/what.html)
@@ -66,7 +66,7 @@
 * [数据库基础](https://zhuanlan.zhihu.com/p/23713529)
 * [mysql索引](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [mysql索引原理&慢查询优化](https://tech.meituan.com/mysql_index.html)
-* [redis](#)
+* [redis安装配置(centos)](#https://www.linode.com/docs/databases/redis/install-and-configure-redis-on-centos-7/)
 * [mongo](#)
 * [memcached](#)
 
