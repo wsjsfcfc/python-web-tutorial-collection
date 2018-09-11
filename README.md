@@ -57,7 +57,7 @@
 
 ## 6 项目实战
 * [自强学堂CMS](https://code.ziqiangxuetang.com/django/django-cms-develop.html)
-* [自强学堂BVDN( Bootstrap + Vue + django + nginx )构建网站](https://code.ziqiangxuetang.com/django/bvdn-1.html)
+* [xadmin源码解析](https://xadmin.readthedocs.io/en/docs-chinese/_modules/index.html)
 
 ## 7 Docker教程
 * [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/what.html)
@@ -66,7 +66,9 @@
 * [数据库基础](https://zhuanlan.zhihu.com/p/23713529)
 * [mysql索引](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [mysql索引原理&慢查询优化](https://tech.meituan.com/mysql_index.html)
-* [redis安装配置centos](#https://www.linode.com/docs/databases/redis/install-and-configure-redis-on-centos-7/)
+* [redis安装配置centos](https://www.linode.com/docs/databases/redis/install-and-configure-redis-on-centos-7/)
+* [redis面试-1](https://zhuanlan.zhihu.com/p/32540678)
+* [redis面试-2](https://juejin.im/post/5ad6e4066fb9a028d82c4b66)
 * [mongo](#)
 * [memcached](#)
 
