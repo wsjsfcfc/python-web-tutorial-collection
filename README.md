@@ -36,6 +36,7 @@
 * [django mtv](https://blog.csdn.net/YangHeng816/article/details/52213983)
 * [django使用注意点](http://blog.51cto.com/ant595/1609225)
 * [利用restframework处理get/post以外的请求](https://www.jianshu.com/p/e26eec80af08)
+* [WSGI&uwsgi](https://www.jianshu.com/p/679dee0a4193)
 
 ## 3 Rest概念
 * [跟着github学习RESTful HTTP API设计](http://cizixs.com/2016/12/12/restful-api-design-guide)
@@ -87,6 +88,8 @@
 
 ## 12 前端
 * [vue 路由](http://www.bslxx.com/a/vue/mianshiti/2017/1108/1417.html)
+* [html基础&DOM](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434499832124d97d77b00706461f9daf1a390b75ade1000)
+* [jQuery相关](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434499993118b8173572625b4afe93a8b19dd707ea1d000)
 
 ## 13 面试
 * [python面试](https://github.com/taizilongxu/interview_python)
