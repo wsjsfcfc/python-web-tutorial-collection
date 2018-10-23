@@ -14,6 +14,7 @@
       * [11 多线程/异步/并发etc](#11-多线程etc)
       * [12 前端相关](#12-前端)
       * [13 面试](#13-面试)
+      * [14 性能](#14-性能)
   * [其他](#)
       * [兼容python2和python3](#python兼容)      
 ## 大纲
@@ -101,6 +102,9 @@
 * [面试总结](https://blog.csdn.net/AyoCross/article/details/56509840)
 * [面试总结解析](https://blog.csdn.net/hpwzjz/article/details/81412988)
 * [笔试](https://blog.csdn.net/CaoMei_HuaCha/article/details/81047777)
+
+## 14 性能
+* [java,c/c++,python性能比较](https://www.cnblogs.com/nucdy/p/6703780.html)
 
 ## python兼容
 * [兼容python2和python3指南](https://docs.python.org/3/howto/pyporting.html)
