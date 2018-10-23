@@ -21,6 +21,7 @@
 
 ## 1 python基础
 * [python基础语法总结](http://www.cnblogs.com/feeland/p/4502931.html)
+* [any/all方法](http://www.cnblogs.com/apple2016/p/5767453.html)
 * [python leetcode题解](https://www.hrwhisper.me/leetcode-algorithm-solution/)
 * [python进阶](https://eastlakeside.gitbooks.io/interpy-zh/content/)
 * [python参考手册第四版](http://bestcbooks.com/B004H0784U/)
@@ -65,6 +66,9 @@
 
 ## 8 数据库
 * [数据库基础](https://zhuanlan.zhihu.com/p/23713529)
+* [事务级别](https://www.cnblogs.com/fjdingsd/p/5273008.html)
+* [mysql高可用性技术](http://www.cnblogs.com/lyhabc/p/3838764.html)
+* [mysql MHA](https://www.cnblogs.com/gomysql/p/3675429.html)
 * [mysql索引](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 * [mysql索引原理&慢查询优化](https://tech.meituan.com/mysql_index.html)
 * [redis安装配置centos](https://www.linode.com/docs/databases/redis/install-and-configure-redis-on-centos-7/)
@@ -75,8 +79,9 @@
 
 ## 9 安全
 * [加密暗号]()
-* [xss]()
-* [xsrf]()
+* [xss](#)
+* [xsrf](#)
+* [cc攻击&ddos攻击](https://www.cnblogs.com/sochishun/p/7081739.html)
 * [其他]()
 
 ## 10 消息队列
