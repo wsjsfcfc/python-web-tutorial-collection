@@ -51,6 +51,7 @@
 ## 4 vimide配置
 * [配置vim的django开发IDE](https://realpython.com/vim-and-python-a-match-made-in-heaven/#lets-make-an-ide)
 * [vim plugin管理](https://github.com/junegunn/vim-plug)
+* [tmux常用命令以及快捷键](https://www.jianshu.com/p/71999b35ead7)
 
 ## 5 git相关
 * [git教程](https://github.com/geeeeeeeeek/git-recipes/wiki)
@@ -105,6 +106,9 @@
 
 ## 14 性能
 * [java,c/c++,python性能比较](https://www.cnblogs.com/nucdy/p/6703780.html)
+
+## 15 微服务
+* [微服务架构](http://dockone.io/article/3687)
 
 ## python兼容
 * [兼容python2和python3指南](https://docs.python.org/3/howto/pyporting.html)
