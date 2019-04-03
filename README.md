@@ -15,6 +15,8 @@
       * [12 前端相关](#12-前端)
       * [13 面试](#13-面试)
       * [14 性能](#14-性能)
+      * [15 微服务](#15-微服务)
+      * [16 测试]($16-测试)
   * [其他](#)
       * [兼容python2和python3](#python兼容)      
 ## 大纲
@@ -109,6 +111,11 @@
 
 ## 15 微服务
 * [微服务架构](http://dockone.io/article/3687)
+
+## 16 测试
+* [python单元测试mock总结](https://blog.csdn.net/younger_china/article/details/72904448)
+* [mock模块](https://blog.csdn.net/peiyao456/article/details/77075173)
+* [mock模块使用说明](https://www.jianshu.com/p/55e5a6863c3f)
 
 ## python兼容
 * [兼容python2和python3指南](https://docs.python.org/3/howto/pyporting.html)
