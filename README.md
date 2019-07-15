@@ -1,4 +1,4 @@
-# django学习资料总结
+# python web(backend) 学习资料总结
  * [大纲](#大纲)
  * [基础](#)
       * [1 python基础](#1-python基础)
@@ -6,19 +6,15 @@
       * [3 Rest概念](#3-Rest概念)
       * [4 vim ide配置](#4-vimide配置)
       * [5 git相关](#5-git相关)
-      * [6 项目实战](#6-项目实战)
-      * [7 Docker教程](#7-Docker教程)
-      * [8 数据库](#8-数据库)
-      * [9 安全](#9-安全)
-      * [10 消息队列](#10-消息队列)
-      * [11 多线程/异步/并发etc](#11-多线程etc)
-      * [12 前端相关](#12-前端)
-      * [13 面试](#13-面试)
-      * [14 性能](#14-性能)
-      * [15 微服务](#15-微服务)
-      * [16 测试]($16-测试)
-  * [其他](#)
-      * [兼容python2和python3](#python兼容)      
+      * [6 Docker](#6-docker)
+      * [7 数据库](#7-数据库)
+      * [8 安全](#8-安全)
+      * [9 异步协程](#9-异步协程)
+      * [10 微服务](#10-微服务)
+      * [11 测试](#11-测试)
+      * [12 面试](#12-面试)
+      * [13 书籍](#13-书籍)
+
 ## 大纲
 * [python web guide](https://python-web-guide.readthedocs.io/zh/latest/base/basics.html)
 
@@ -61,14 +57,10 @@
 * [git rebase详解](https://blog.yorkxin.org/2011/07/29/git-rebase.html)
 * [git pull --rebase & git merge --no-ff](http://hungyuhei.github.io/2012/08/07/better-git-commit-graph-using-pull---rebase-and-merge---no-ff.html)
 
-## 6 项目实战
-* [自强学堂CMS](https://code.ziqiangxuetang.com/django/django-cms-develop.html)
-* [xadmin源码解析](https://xadmin.readthedocs.io/en/docs-chinese/_modules/index.html)
-
-## 7 Docker教程
+## 6 docker
 * [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/introduction/what.html)
 
-## 8 数据库
+## 7 数据库
 * [数据库基础](https://zhuanlan.zhihu.com/p/23713529)
 * [事务级别](https://www.cnblogs.com/fjdingsd/p/5273008.html)
 * [mysql高可用性技术](http://www.cnblogs.com/lyhabc/p/3838764.html)
@@ -81,41 +73,33 @@
 * [mongo](#)
 * [memcached](#)
 
-## 9 安全
+## 8 安全
 * [加密暗号]()
 * [xss](#)
 * [xsrf](#)
 * [cc攻击&ddos攻击](https://www.cnblogs.com/sochishun/p/7081739.html)
 * [其他]()
 
-## 10 消息队列
-* [python消息队列Queue](https://blog.csdn.net/fonyer/article/details/79019118)
+## 9 异步协程
+* [java,c/c++,python性能比较](https://www.cnblogs.com/nucdy/p/6703780.html)
+* [gevent/asyncio性能比较](https://www.jianshu.com/p/0f50f9814a0d)
 
-      
-## 11 多线程etc
-* [django利用多线程增加异步任务](https://blog.csdn.net/orangleliu/article/details/41961295)
+## 10 微服务
+* [微服务架构](http://dockone.io/article/3687)
 
-## 12 前端
-* [vue 路由](http://www.bslxx.com/a/vue/mianshiti/2017/1108/1417.html)
-* [html基础&DOM](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434499832124d97d77b00706461f9daf1a390b75ade1000)
-* [jQuery相关](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434499993118b8173572625b4afe93a8b19dd707ea1d000)
+## 11 测试
+* [python单元测试mock总结](https://blog.csdn.net/younger_china/article/details/72904448)
+* [mock模块](https://blog.csdn.net/peiyao456/article/details/77075173)
+* [mock模块使用说明](https://www.jianshu.com/p/55e5a6863c3f)
 
-## 13 面试
+## 12 面试
 * [python面试](https://github.com/taizilongxu/interview_python)
 * [面试总结](https://blog.csdn.net/AyoCross/article/details/56509840)
 * [面试总结解析](https://blog.csdn.net/hpwzjz/article/details/81412988)
 * [笔试](https://blog.csdn.net/CaoMei_HuaCha/article/details/81047777)
 
-## 14 性能
-* [java,c/c++,python性能比较](https://www.cnblogs.com/nucdy/p/6703780.html)
+## 13 书籍
+* [python惯例 改善程序的91个建议](https://l1nwatch.gitbook.io/writing_solid_python_code_gitbook/di-1-zhang-yin-lun)
+* [python高性能编程](http://www.java1234.com/a/javabook/javabase/2018/0804/11658.html)
 
-## 15 微服务
-* [微服务架构](http://dockone.io/article/3687)
 
-## 16 测试
-* [python单元测试mock总结](https://blog.csdn.net/younger_china/article/details/72904448)
-* [mock模块](https://blog.csdn.net/peiyao456/article/details/77075173)
-* [mock模块使用说明](https://www.jianshu.com/p/55e5a6863c3f)
-
-## python兼容
-* [兼容python2和python3指南](https://docs.python.org/3/howto/pyporting.html)
