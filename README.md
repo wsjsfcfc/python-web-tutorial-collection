@@ -14,6 +14,7 @@
       * [11 测试](#11-测试)
       * [12 面试](#12-面试)
       * [13 书籍](#13-书籍)
+	  * [14 web服务器](#14-web服务器)
 
 ## 大纲
 * [python web guide](https://python-web-guide.readthedocs.io/zh/latest/base/basics.html)
@@ -102,4 +103,5 @@
 * [python惯例 改善程序的91个建议](https://l1nwatch.gitbook.io/writing_solid_python_code_gitbook/di-1-zhang-yin-lun)
 * [python高性能编程](http://www.java1234.com/a/javabook/javabase/2018/0804/11658.html)
 
-
+## 14 web服务器
+* [nginx原理](https://blog.csdn.net/hguisu/article/details/8930668)
